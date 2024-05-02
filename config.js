@@ -18,9 +18,9 @@ global.statusseen = false;                 //make true to view statuses
 
 
 //
-global.Owner = [""];
-global.OwnerNumber = [""]; 
-global.ownertag = [""]; 
+global.Owner = ["923150513637"];
+global.OwnerNumber = ["923150513637"]; 
+global.ownertag = ["923150513637"]; 
 global.OwnerName = "ɢᴏᴊᴏ sᴇʀ";
 global.BotName = "ɢᴏᴊᴏ sᴇʀ";
 global.packname = "Gᴏᴊᴏ Sᴇʀ";                             //Do not change.
